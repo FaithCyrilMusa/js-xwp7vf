@@ -1,0 +1,18 @@
+button {
+  background-color:rgb(95, 95, 216);
+  width: 100%;
+  color: white;
+  padding: 8px;
+  margin: 10px 0px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.5em;
+}
+
+h5 {
+ text-align: center;
+}
+
+ol {
+  font-size: 0.6em;
+}
